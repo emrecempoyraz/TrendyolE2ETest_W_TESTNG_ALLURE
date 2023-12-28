@@ -1,0 +1,1 @@
+{"uuid":"c2062e40-c5f2-4da8-a5f2-404fda64a724","name":"TrendyolE2ETest","children":["a10a00d4-c024-41ad-84f3-75b8048a3d0c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1703191513826,"stop":1703191518869}],"afters":[],"start":1703191513805,"stop":1703191519031}
